@@ -26,6 +26,11 @@
 			<form:radiobutton path="favoriteLanguage" value="C++" /> C++
 		<br>
 		<br>
+		Operating Systems:
+			<form:checkbox path="operatingSystems" value="Windows" /> Windows
+			<form:checkbox path="operatingSystems" value="Linux" /> Linux
+		<br>
+		<br>
 		<input type="submit" value="Submit" />
 	</form:form>
 </body>
