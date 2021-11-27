@@ -12,5 +12,7 @@
 	<br>
 	<br> The customer name is: ${customer.firstName }
 	${customer.lastName }
+	<br>
+	<br> Course Code: ${customer.courseCode }
 </body>
 </html>
